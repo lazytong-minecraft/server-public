@@ -10,4 +10,4 @@ This tip is only based on Chinese.
 - 修改密码请修改“start_server.sh”中的“JUPYTER_TOKEN”
 - HuggingFace仅开通7860端口
 - InterDevCloud可以自选一个端口，请修改“start_server.sh”中的“port”项
-By LazyTong on BiliBili.
+# By LazyTong on BiliBili.
